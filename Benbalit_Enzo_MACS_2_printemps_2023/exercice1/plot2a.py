@@ -2,8 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import question2a as q2a
 
-
-#test
 ##plot pour (a)
 n=10000
 T=5
