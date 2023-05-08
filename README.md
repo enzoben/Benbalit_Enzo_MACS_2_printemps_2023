@@ -2,4 +2,6 @@
 
 Ce dossier contient tous les codes utilisés dans le dm de calcul Stochastique.
 
-Les différents graphiques et images vu dans le dm sont obtenus par l'execution des fichiers "plot&&.py" ou "script.py"
+Les différents graphiques et images vu dans le dm sont obtenus par l'execution des fichiers "plot&&.py" ou "script.py".
+
+Les fichiers "__pycache" ne sont pas à modifier.
